@@ -266,7 +266,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <script src='lib/jquery.min.js'></script>
 <script src='lib/moment.min.js'></script>
-<script src='fullcalendar/fullcalendar.js'></script>
+<script src='<?php echo base_url(); ?>assets/fullcalendar/fullcalendar.js'></script>
 
 </body>
 </html>
